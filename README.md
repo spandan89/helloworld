@@ -7,6 +7,9 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=87138#p619713
 
 https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=145364
 
+
+http://www.esdc.gc.ca/en/foreign_workers/hire/permanent/requirements.page
+
 include<stdio.h>
 
 int main()
