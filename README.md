@@ -12,6 +12,8 @@ http://www.esdc.gc.ca/en/foreign_workers/hire/permanent/requirements.page
 
 https://www.coursera.org/learn/embedded-operating-system
 
+http://www.cypress.com/documentation/application-notes/an91445-antenna-design-and-rf-layout-guidelines
+
 include<stdio.h>
 
 int main()
